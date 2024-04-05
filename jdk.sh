@@ -1,5 +1,5 @@
-# Update the system
-sudo apt update
+# Update system
+sudo apt update -y
 sudo apt upgrade -y
 
 # Install Jdk
